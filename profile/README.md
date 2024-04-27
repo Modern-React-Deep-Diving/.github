@@ -7,15 +7,15 @@
 <table style="text-align:center;">
 <tr>
 <th style="text-align:center;"><a href="https://github.com/CHAERYEON-LEE">이채련</a></th>
-<th style="text-align:center;"><a href="https://github.com/">윤혜민</a></th>
+<th style="text-align:center;"><a href="https://github.com/hyeii">윤혜민</a></th>
 <th style="text-align:center;"><a href="https://github.com/L1m3Kun">강성구</a></th>
 <th style="text-align:center;"><a href="https://github.com/">조아영</a></th>
 </tr>
 <tr>
     <td style="text-align:center;"><a href="https://github.com/CHAERYEON-LEE"><img width="180px" src="https://avatars.githubusercontent.com/u/89028068?v=4"/></a></td>
-    <td style="text-align:center;"><a href="https://github.com/"><img src=""/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/hyeii"><img width="180px" src="https://avatars.githubusercontent.com/u/122416887?v=4"/></a></td>
     <td style="text-align:center;"><a href="https://github.com/L1m3Kun"><img width="180px" src="https://avatars.githubusercontent.com/u/113879996?v=4""/></a></td>
-    <td style="text-align:center;"><a href="https://github.com/"><img src=""/></a></td>
+    <td style="text-align:center;"><a href="https://github.com/AhYoungJo"><img width="180px" src="https://avatars.githubusercontent.com/u/125351416?v=4"/></a></td>
     
 </tr>
 </table>
